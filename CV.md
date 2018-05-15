@@ -5,7 +5,7 @@
 ## PERSONAL INFORMATION :
 
 *  _**NAME**_ : Peter Emad Salah 
-*  _**DATE OF BIRTH**_ : 6/4/1997 
+*  _**DATE OF BIRTH**_ : 6th April 1997 
 * _**Contact Information**_:
    * E-mail: peteremad97@hotmail.com 
    * Mobile: +21222965445 
@@ -13,29 +13,31 @@
 ## Interests:
 1. Projects 
 2. Research
-3. physics 
-4. writing scenarios 
-5. programming  
+3. Physics 
+4. Writing scenarios 
+5. Programming  
 6. Reading   
 7. Music 
 
 ## Experience:
-1. Great experience in organizing conferences or concerts. 
-2. Self learning as during this semester it was asked to make some projects and tasks which requires a very wide knowledge in many aspects. 
-3. How to get the best output in no time. 
-4. How to work under pressure. 
-5. Designing of smart home and implementing of associated mobile application special for Al-zeheimar patient.
-6. Designing a model for artificial iris works with required sensors.
-7. Project used for transportations of vaccines associated with a mobile application.
-8. A special project for patients in rehabilitation period -designed for hand rehabilitation- to make them do their excersises at home and let their doctor supervise their work remotly.
-9. A special circuit to measure  EMG signal and visualize it using osclliscope. 
-10. Working on a DNA allignment code in Data structure final project
+
+1. Designing of smart home and implementing of associated mobile application special for Al-zeheimar patient.
+2. Designing a model for artificial iris works with required sensors.
+3. Project used for transportations of vaccines associated with a mobile application.
+4. A special project for patients in rehabilitation period -designed for hand rehabilitation- to make them do their excersises at home and let their doctor supervise their work remotly.
+5. design circuit to measure  EMG signal and visualizing it using osclliscope. 
+6. Working on a DNA allignment code in Data structure final project
+7. Self learning as during this semester it was asked to make some projects and tasks which requires a very wide knowledge in many aspects. 
+8. How to get the best output in no time. 
+9. How to work under pressure. 
+10. Social and educational activities in the church. 
+11. Great experience in organizing concerts and special days in the church.
 
 ## Knowledge :
  **Title** | **Date** 
  --------- | -------- 
  C++ | 2018 
- c++ OOP | 2018 
+ C++ OOP | 2018 
  C programming | 2017 
  python | Now via online course
  LabView | 2018 
@@ -46,6 +48,25 @@
  
 ## Education:
  * Undergraduate at *Systems & Biomedical Engineering Department \- Cairo University*
+
+### secondary school
+* **Finished in** : june 2015  
+* **total year grade Percentage** : 99 % 
+* **Mark** : 405.5 / 410 
+* **Note** : this grade qualified me to enroll in faculty of engineering El-Mansoura university
+
+### Faculty of engineering
+* _**Preparatory year**_ : 
+   * Finished in El-Mansoura University 
+   * Grade : Excellent 
+   * Note  : this grade qualified me move to Cairo University - Faculty of Engineering - Systems and Biomedical   Engineering department.
+*  _**Frist year**_ :
+    * Finished in Cairo university
+    * Grade : Excellent
+    * Rank : Fifth 
+*  _**Second year**_ :
+    * Frist semester finished with grade : Excellent 
+*  _**Total GPA**_ : 3.97         
 
 ## Skills:
  * Research
