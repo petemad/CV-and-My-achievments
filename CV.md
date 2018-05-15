@@ -31,7 +31,7 @@
 9. A special circuit to measure  EMG signal and visualize it using osclliscope. 
 10. Working on a DNA allignment code in Data structure final project
 
-### Knowledge :
+## Knowledge :
  **Title** | **Date** 
  --------- | -------- 
  C++ | 2018 
