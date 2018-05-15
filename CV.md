@@ -45,6 +45,7 @@
  MatLab  | 2018
  VHDL | 2018
  maquette designing | 2018
+ Visual basic | 2016
  
 ## Education:
  * Undergraduate at *Systems & Biomedical Engineering Department \- Cairo University*
