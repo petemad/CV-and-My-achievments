@@ -78,3 +78,8 @@
  * Self learning
  * Presentation skills 
  * Fast learning of something that may I did not know anything about it.
+
+## More information and achievment
+
+You can find more data ,reports represnting my projects and recpmmpdation letters  
+**Here** : https://github.com/petemad/CV-and-My-achievments.git 
