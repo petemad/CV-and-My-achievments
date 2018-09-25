@@ -33,6 +33,7 @@
 10. Social and educational activities in the church. 
 11. Great experience in organizing concerts and special days in the church.
 12. volunteer in religious educations for preparatory age 
+13. Great experience in Data structure - you can find what we learned here https://sbme-tutorials.github.io/2018/data-structures/data-structures.html
 
 ## Knowledge :
  **Title** | **Date** 
