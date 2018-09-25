@@ -32,6 +32,7 @@
 9. How to work under pressure. 
 10. Social and educational activities in the church. 
 11. Great experience in organizing concerts and special days in the church.
+12. volunteer in religious educations for preparatory age 
 
 ## Knowledge :
  **Title** | **Date** 
@@ -39,16 +40,16 @@
  C++ | 2018 
  C++ OOP | 2018 
  C programming | 2017 
- python | Now via online course
  LabView | 2018 
  Arduino | 2018 
  MatLab  | 2018
  VHDL | 2018
  maquette designing | 2018
  Visual basic | 2016
+ python | 2018 - 2019 
  
 ## Education:
- * Undergraduate at *Systems & Biomedical Engineering Department \- Cairo University*
+ * Undergraduate in the third year at *Systems & Biomedical Engineering Department \- Cairo University*
 
 ### secondary school
 * **Finished in** : june 2015  
@@ -66,8 +67,10 @@
     * Grade : Excellent
     * Rank : Fifth 
 *  _**Second year**_ :
-    * Frist semester finished with grade : Excellent 
-*  _**Total GPA**_ : 3.97         
+    * Finished in Cairo university 
+    * Grade : : Excellent
+    * Rank : ninth  
+        
 
 ## Skills:
  * Research
